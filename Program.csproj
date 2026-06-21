@@ -1,0 +1,12 @@
+Project Sdk=Microsoft.NET.Sdk
+ 
+  PropertyGroup
+    OutputTypeExeOutputType
+    TargetFrameworknet8.0TargetFramework
+    ImplicitUsingsenableImplicitUsings
+    NullableenableNullable
+    InvariantGlobalizationtrueInvariantGlobalization
+    AssemblyNameTerminalSnakeAssemblyName
+  PropertyGroup
+ 
+Project
